@@ -1,0 +1,7 @@
+[test]
+node1 ansible_host=172.31.18.76
+
+[test:vars] 
+ansible_ssh_private_key_file=/home/tom/.ssh/id_rsa  
+ansible_user=tom 
+
