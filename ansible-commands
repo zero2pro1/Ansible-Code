@@ -1,0 +1,5 @@
+ansible-doc -l
+ansible-doc -l | wc -l
+ansible-doc -s dnf
+ansible-doc dnf
+
